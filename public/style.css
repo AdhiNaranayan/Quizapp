@@ -1,0 +1,43 @@
+.title {
+    color: saddlebrown;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.logo {
+    color: saddlebrown;
+    font-weight: bold;
+}
+
+.lobby {
+    text-align: center;
+    margin-top: 180px;
+}
+
+.question {
+    color: red;
+}
+
+.answer-col {
+    margin-top: 130px;
+    border: 1px solid saddlebrown;
+    border-style: dashed;
+    padding: 20px;
+    /* margin-right: 2px; */
+}
+
+#rooms {
+    list-style-type: none;
+    padding: 0;
+    border: 1px solid saddlebrown;
+    border-radius: 20px;
+}
+
+#rooms li {
+    margin: 10px 0;
+    /* Add some spacing between room items */
+}
+
+#create-room {
+    margin-top: 20px;
+    /* Add some space above the button */
+}
